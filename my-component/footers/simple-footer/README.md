@@ -1,0 +1,2 @@
+egyszerű footer linkekkel
+nincs pozícionálva

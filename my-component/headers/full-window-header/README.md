@@ -1,0 +1,1 @@
+header egy teljes ablakot kitöltő borítón a cikk tetején

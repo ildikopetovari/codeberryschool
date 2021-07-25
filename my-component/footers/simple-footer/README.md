@@ -1,2 +1,2 @@
 egyszerű footer linkekkel
-<b>nincs pozícionálva<b>
+<b>nincs pozícionálva</b>
